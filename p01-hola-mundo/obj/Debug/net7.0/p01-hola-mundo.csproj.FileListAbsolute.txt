@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\bin\Debug\net7.0\p01-hola-mundo.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\bin\Debug\net7.0\p01-hola-mundo.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\bin\Debug\net7.0\p01-hola-mundo.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\bin\Debug\net7.0\p01-hola-mundo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\bin\Debug\net7.0\p01-hola-mundo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\p01-hola-mundo.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\p01-hola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\p01-hola-mundo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\p01-hola-mundo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\p01-hola-mundo.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\p01-hola-mundo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\refint\p01-hola-mundo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\p01-hola-mundo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\p01-hola-mundo.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p01-hola-mundo\obj\Debug\net7.0\ref\p01-hola-mundo.dll

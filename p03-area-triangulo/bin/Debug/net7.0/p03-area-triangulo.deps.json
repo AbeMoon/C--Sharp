@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p03-area-triangulo/1.0.0": {
+        "runtime": {
+          "p03-area-triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p03-area-triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

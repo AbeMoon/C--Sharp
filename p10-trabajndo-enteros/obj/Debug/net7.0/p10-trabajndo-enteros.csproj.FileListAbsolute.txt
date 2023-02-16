@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\p10-trabajndo-enteros.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\p10-trabajndo-enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\p10-trabajndo-enteros.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\p10-trabajndo-enteros.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\p10-trabajndo-enteros.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\bin\Debug\net7.0\p10-trabajndo-enteros.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\bin\Debug\net7.0\p10-trabajndo-enteros.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\bin\Debug\net7.0\p10-trabajndo-enteros.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\bin\Debug\net7.0\p10-trabajndo-enteros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\bin\Debug\net7.0\p10-trabajndo-enteros.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\p10-trabajndo-enteros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\refint\p10-trabajndo-enteros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\p10-trabajndo-enteros.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\p10-trabajndo-enteros.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p10-trabajndo-enteros\obj\Debug\net7.0\ref\p10-trabajndo-enteros.dll

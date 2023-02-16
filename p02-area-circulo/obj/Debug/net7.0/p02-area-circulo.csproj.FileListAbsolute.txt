@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\bin\Debug\net7.0\p02-area-circulo.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\bin\Debug\net7.0\p02-area-circulo.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\bin\Debug\net7.0\p02-area-circulo.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\bin\Debug\net7.0\p02-area-circulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\bin\Debug\net7.0\p02-area-circulo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\p02-area-circulo.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\p02-area-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\p02-area-circulo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\p02-area-circulo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\p02-area-circulo.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\p02-area-circulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\refint\p02-area-circulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\p02-area-circulo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\p02-area-circulo.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p02-area-circulo\obj\Debug\net7.0\ref\p02-area-circulo.dll

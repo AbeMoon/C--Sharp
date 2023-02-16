@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\p11-trabajando-flotantes.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\p11-trabajando-flotantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\p11-trabajando-flotantes.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\p11-trabajando-flotantes.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\p11-trabajando-flotantes.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\bin\Debug\net7.0\p11-trabajando-flotantes.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\bin\Debug\net7.0\p11-trabajando-flotantes.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\bin\Debug\net7.0\p11-trabajando-flotantes.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\bin\Debug\net7.0\p11-trabajando-flotantes.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\bin\Debug\net7.0\p11-trabajando-flotantes.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\p11-trabajando-flotantes.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\refint\p11-trabajando-flotantes.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\p11-trabajando-flotantes.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\p11-trabajando-flotantes.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p11-trabajando-flotantes\obj\Debug\net7.0\ref\p11-trabajando-flotantes.dll

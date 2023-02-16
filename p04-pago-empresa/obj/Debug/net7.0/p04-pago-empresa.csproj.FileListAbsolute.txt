@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\p04-pago-empresa.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\p04-pago-empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\p04-pago-empresa.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\p04-pago-empresa.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\p04-pago-empresa.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\bin\Debug\net7.0\p04-pago-empresa.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\bin\Debug\net7.0\p04-pago-empresa.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\bin\Debug\net7.0\p04-pago-empresa.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\bin\Debug\net7.0\p04-pago-empresa.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\bin\Debug\net7.0\p04-pago-empresa.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\p04-pago-empresa.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\refint\p04-pago-empresa.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\p04-pago-empresa.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\p04-pago-empresa.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p04-pago-empresa\obj\Debug\net7.0\ref\p04-pago-empresa.dll

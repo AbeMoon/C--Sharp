@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\p03-area-triangulo.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\p03-area-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\p03-area-triangulo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\p03-area-triangulo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\p03-area-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\bin\Debug\net7.0\p03-area-triangulo.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\bin\Debug\net7.0\p03-area-triangulo.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\bin\Debug\net7.0\p03-area-triangulo.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\bin\Debug\net7.0\p03-area-triangulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\bin\Debug\net7.0\p03-area-triangulo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\p03-area-triangulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\refint\p03-area-triangulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\p03-area-triangulo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\p03-area-triangulo.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p03-area-triangulo\obj\Debug\net7.0\ref\p03-area-triangulo.dll
