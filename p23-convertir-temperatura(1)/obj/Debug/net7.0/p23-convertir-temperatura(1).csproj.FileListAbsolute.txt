@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\bin\Debug\net7.0\p23-convertir-temperatura(1).exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\bin\Debug\net7.0\p23-convertir-temperatura(1).deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\bin\Debug\net7.0\p23-convertir-temperatura(1).runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\bin\Debug\net7.0\p23-convertir-temperatura(1).dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\bin\Debug\net7.0\p23-convertir-temperatura(1).pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\p23-convertir-temperatura(1).csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\p23-convertir-temperatura(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\p23-convertir-temperatura(1).AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\p23-convertir-temperatura(1).AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\p23-convertir-temperatura(1).csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\p23-convertir-temperatura(1).dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\refint\p23-convertir-temperatura(1).dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\p23-convertir-temperatura(1).pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\p23-convertir-temperatura(1).genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p23-convertir-temperatura(1)\obj\Debug\net7.0\ref\p23-convertir-temperatura(1).dll

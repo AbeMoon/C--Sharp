@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\bin\Debug\net7.0\p14-conversion-tipos.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\refint\p14-conversion-tipos.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\p14-conversion-tipos.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p14-conversion-tipos\obj\Debug\net7.0\ref\p14-conversion-tipos.dll
