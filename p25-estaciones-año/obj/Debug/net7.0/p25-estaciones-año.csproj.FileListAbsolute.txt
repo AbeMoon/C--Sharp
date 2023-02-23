@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\bin\Debug\net7.0\p25-estaciones-año.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\bin\Debug\net7.0\p25-estaciones-año.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\bin\Debug\net7.0\p25-estaciones-año.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\bin\Debug\net7.0\p25-estaciones-año.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\bin\Debug\net7.0\p25-estaciones-año.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\p25-estaciones-año.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\p25-estaciones-año.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\p25-estaciones-año.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\p25-estaciones-año.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\p25-estaciones-año.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\p25-estaciones-año.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\refint\p25-estaciones-año.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\p25-estaciones-año.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\p25-estaciones-año.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p25-estaciones-año\obj\Debug\net7.0\ref\p25-estaciones-año.dll

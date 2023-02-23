@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p28-ley-de-newton/1.0.0": {
+        "runtime": {
+          "p28-ley-de-newton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p28-ley-de-newton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

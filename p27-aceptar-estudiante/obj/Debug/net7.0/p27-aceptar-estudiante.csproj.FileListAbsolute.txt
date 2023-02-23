@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\bin\Debug\net7.0\p27-aceptar-estudiante.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\refint\p27-aceptar-estudiante.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\p27-aceptar-estudiante.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p27-aceptar-estudiante\obj\Debug\net7.0\ref\p27-aceptar-estudiante.dll

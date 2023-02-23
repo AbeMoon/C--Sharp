@@ -17,7 +17,7 @@ if (horas> 40){
     extra = ((horas - 40) * (paga * 2));
     Console.WriteLine($"Su salario es de: ${total = 40 * paga} pesos");
     Console.WriteLine($"Dado que usted trabajo {horas - 40} horas extra, se le bonifica con {extra} pesos");
-    Console.WriteLine($"\n Salario total : $ {extra + (total = 40 * paga) } pesos");
+    Console.WriteLine($"\n Salario total : $ {extra + ( total = 40 * paga) } pesos");
 }else{
     total = horas * paga;
 

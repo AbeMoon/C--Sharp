@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\refint\p26-tipo-angulo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p26-tipo-angulo\obj\Debug\net7.0\ref\p26-tipo-angulo.dll

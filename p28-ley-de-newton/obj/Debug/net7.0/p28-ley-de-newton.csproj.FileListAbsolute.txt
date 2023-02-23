@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\bin\Debug\net7.0\p28-ley-de-newton.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\refint\p28-ley-de-newton.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\p28-ley-de-newton.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p28-ley-de-newton\obj\Debug\net7.0\ref\p28-ley-de-newton.dll
