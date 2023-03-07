@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\p40-primer-examen.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\p40-primer-examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\p40-primer-examen.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\p40-primer-examen.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\p40-primer-examen.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\bin\Debug\net7.0\p40-primer-examen.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\bin\Debug\net7.0\p40-primer-examen.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\bin\Debug\net7.0\p40-primer-examen.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\bin\Debug\net7.0\p40-primer-examen.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\bin\Debug\net7.0\p40-primer-examen.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\p40-primer-examen.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\refint\p40-primer-examen.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\p40-primer-examen.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\p40-primer-examen.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\obj\Debug\net7.0\ref\p40-primer-examen.dll

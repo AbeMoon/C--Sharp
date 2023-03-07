@@ -15,9 +15,9 @@ Console.Write($"num1 en base 8 {Convert.ToString(num1,8)}");
 Console.Write($"num1 en base 16 {Convert.ToString(num1,16)}");
 Console.Write($"num1 en base 2 {Convert.ToString(num1,2)}");
 
-Console.Writeline($"sbyte : {sbyte.MaxValue},   {Sbyte.MaxValue}");
-Console.Writeline($"byte : {byte.MinValue},   {byte.MaxValue}");
-Console.Writeline($"int : {int.MaxValue},   {int.MaxValue}");
-Console.Writeline($"short : {short.MaxValue},   {short.MaxValue}");
-Console.Writeline($"long : {long.MaxValue},   {long.MaxValue}");
-Console.Writeline($"ulong : {ulong.MaxValue},   {ulong.MaxValue}");
+Console.WriteLine($"sbyte : {sbyte.MaxValue},   {Sbyte.MaxValue}");
+Console.WriteLine($"byte : {byte.MinValue},   {byte.MaxValue}");
+Console.WriteLine($"int : {int.MaxValue},   {int.MaxValue}");
+Console.WriteLine($"short : {short.MaxValue},   {short.MaxValue}");
+Console.WriteLine($"long : {long.MaxValue},   {long.MaxValue}");
+Console.WriteLine($"ulong : {ulong.MaxValue},   {ulong.MaxValue}");
