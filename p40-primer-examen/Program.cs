@@ -26,7 +26,6 @@ sub = (cob + paq) * canti;
 total = sub - (sub * desc);
 
 Console.Clear();
-
 Console.WriteLine("Bienvenidos a la universidad Cualpan-------------\n");
 Console.WriteLine($"Pediste:                {canti} de espacios");
 Console.WriteLine($"De los cuales son para: {tipoC}");
