@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p45-conteo-numeros/1.0.0": {
+        "runtime": {
+          "p45-conteo-numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p45-conteo-numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

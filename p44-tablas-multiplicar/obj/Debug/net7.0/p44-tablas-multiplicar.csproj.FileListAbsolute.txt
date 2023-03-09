@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\bin\Debug\net7.0\p44-tablas-multiplicar.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\bin\Debug\net7.0\p44-tablas-multiplicar.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\bin\Debug\net7.0\p44-tablas-multiplicar.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\bin\Debug\net7.0\p44-tablas-multiplicar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\bin\Debug\net7.0\p44-tablas-multiplicar.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\p44-tablas-multiplicar.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\p44-tablas-multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\p44-tablas-multiplicar.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\p44-tablas-multiplicar.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\p44-tablas-multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\p44-tablas-multiplicar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\refint\p44-tablas-multiplicar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\p44-tablas-multiplicar.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\p44-tablas-multiplicar.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p44-tablas-multiplicar\obj\Debug\net7.0\ref\p44-tablas-multiplicar.dll

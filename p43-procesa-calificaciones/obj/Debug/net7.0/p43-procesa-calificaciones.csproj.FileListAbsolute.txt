@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\p43-procesa-calificaciones.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\p43-procesa-calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\p43-procesa-calificaciones.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\p43-procesa-calificaciones.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\p43-procesa-calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\bin\Debug\net7.0\p43-procesa-calificaciones.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\bin\Debug\net7.0\p43-procesa-calificaciones.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\bin\Debug\net7.0\p43-procesa-calificaciones.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\bin\Debug\net7.0\p43-procesa-calificaciones.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\bin\Debug\net7.0\p43-procesa-calificaciones.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\p43-procesa-calificaciones.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\refint\p43-procesa-calificaciones.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\p43-procesa-calificaciones.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\p43-procesa-calificaciones.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p43-procesa-calificaciones\obj\Debug\net7.0\ref\p43-procesa-calificaciones.dll

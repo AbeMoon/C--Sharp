@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = p40_primer_examen
-build_property.ProjectDir = c:\Users\arkan\Desktop\docs\Codigo\C#\p40-primer-examen\
+build_property.RootNamespace = p45_conteo_numeros
+build_property.ProjectDir = C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\

@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\bin\Debug\net7.0\p42-numeros-100-1.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\bin\Debug\net7.0\p42-numeros-100-1.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\bin\Debug\net7.0\p42-numeros-100-1.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\bin\Debug\net7.0\p42-numeros-100-1.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\bin\Debug\net7.0\p42-numeros-100-1.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\p42-numeros-100-1.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\p42-numeros-100-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\p42-numeros-100-1.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\p42-numeros-100-1.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\p42-numeros-100-1.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\p42-numeros-100-1.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\refint\p42-numeros-100-1.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\p42-numeros-100-1.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\p42-numeros-100-1.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p42-numeros-100-1\obj\Debug\net7.0\ref\p42-numeros-100-1.dll

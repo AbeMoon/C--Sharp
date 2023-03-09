@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\refint\p45-conteo-numeros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p45-conteo-numeros\obj\Debug\net7.0\ref\p45-conteo-numeros.dll
