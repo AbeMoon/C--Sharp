@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\p70-suma-rango-2.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\p70-suma-rango-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\p70-suma-rango-2.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\p70-suma-rango-2.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\p70-suma-rango-2.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\bin\Debug\net7.0\p70-suma-rango-2.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\bin\Debug\net7.0\p70-suma-rango-2.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\bin\Debug\net7.0\p70-suma-rango-2.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\bin\Debug\net7.0\p70-suma-rango-2.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\bin\Debug\net7.0\p70-suma-rango-2.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\p70-suma-rango-2.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\refint\p70-suma-rango-2.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\p70-suma-rango-2.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\p70-suma-rango-2.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p70-suma-rango-2\obj\Debug\net7.0\ref\p70-suma-rango-2.dll

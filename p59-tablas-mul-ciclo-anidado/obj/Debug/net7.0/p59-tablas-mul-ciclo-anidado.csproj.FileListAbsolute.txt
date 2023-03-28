@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\bin\Debug\net7.0\p59-tablas-mul-ciclo-anidado.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\bin\Debug\net7.0\p59-tablas-mul-ciclo-anidado.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\bin\Debug\net7.0\p59-tablas-mul-ciclo-anidado.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\bin\Debug\net7.0\p59-tablas-mul-ciclo-anidado.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\bin\Debug\net7.0\p59-tablas-mul-ciclo-anidado.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\p59-tablas-mul-ciclo-anidado.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\p59-tablas-mul-ciclo-anidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\p59-tablas-mul-ciclo-anidado.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\p59-tablas-mul-ciclo-anidado.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\p59-tablas-mul-ciclo-anidado.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\p59-tablas-mul-ciclo-anidado.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\refint\p59-tablas-mul-ciclo-anidado.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\p59-tablas-mul-ciclo-anidado.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\p59-tablas-mul-ciclo-anidado.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p59-tablas-mul-ciclo-anidado\obj\Debug\net7.0\ref\p59-tablas-mul-ciclo-anidado.dll

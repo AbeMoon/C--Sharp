@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\p68-conversion-temperaturas.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\p68-conversion-temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\p68-conversion-temperaturas.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\p68-conversion-temperaturas.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\p68-conversion-temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\bin\Debug\net7.0\p68-conversion-temperaturas.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\bin\Debug\net7.0\p68-conversion-temperaturas.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\bin\Debug\net7.0\p68-conversion-temperaturas.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\bin\Debug\net7.0\p68-conversion-temperaturas.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\bin\Debug\net7.0\p68-conversion-temperaturas.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\p68-conversion-temperaturas.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\refint\p68-conversion-temperaturas.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\p68-conversion-temperaturas.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\p68-conversion-temperaturas.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p68-conversion-temperaturas\obj\Debug\net7.0\ref\p68-conversion-temperaturas.dll

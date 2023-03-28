@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\bin\Debug\net7.0\p54-numero-1-n.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\bin\Debug\net7.0\p54-numero-1-n.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\bin\Debug\net7.0\p54-numero-1-n.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\bin\Debug\net7.0\p54-numero-1-n.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\bin\Debug\net7.0\p54-numero-1-n.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\p54-numero-1-n.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\p54-numero-1-n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\p54-numero-1-n.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\p54-numero-1-n.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\p54-numero-1-n.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\p54-numero-1-n.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\refint\p54-numero-1-n.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\p54-numero-1-n.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\p54-numero-1-n.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p54-numero-1-n\obj\Debug\net7.0\ref\p54-numero-1-n.dll

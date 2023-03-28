@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\bin\Debug\net7.0\p67-promedio-numeros.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\bin\Debug\net7.0\p67-promedio-numeros.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\bin\Debug\net7.0\p67-promedio-numeros.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\bin\Debug\net7.0\p67-promedio-numeros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\bin\Debug\net7.0\p67-promedio-numeros.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\p67-promedio-numeros.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\p67-promedio-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\p67-promedio-numeros.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\p67-promedio-numeros.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\p67-promedio-numeros.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\p67-promedio-numeros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\refint\p67-promedio-numeros.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\p67-promedio-numeros.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\p67-promedio-numeros.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p67-promedio-numeros\obj\Debug\net7.0\ref\p67-promedio-numeros.dll

@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\p60-piramide.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\p60-piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\p60-piramide.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\p60-piramide.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\p60-piramide.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\bin\Debug\net7.0\p60-piramide.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\bin\Debug\net7.0\p60-piramide.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\bin\Debug\net7.0\p60-piramide.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\bin\Debug\net7.0\p60-piramide.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\bin\Debug\net7.0\p60-piramide.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\p60-piramide.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\refint\p60-piramide.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\p60-piramide.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\p60-piramide.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p60-piramide\obj\Debug\net7.0\ref\p60-piramide.dll

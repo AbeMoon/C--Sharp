@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p68-conversion-temperaturas/1.0.0": {
+        "runtime": {
+          "p68-conversion-temperaturas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p68-conversion-temperaturas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

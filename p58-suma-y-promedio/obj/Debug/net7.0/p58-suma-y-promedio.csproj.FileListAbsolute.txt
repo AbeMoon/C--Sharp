@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\p58-suma-y-promedio.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\p58-suma-y-promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\p58-suma-y-promedio.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\p58-suma-y-promedio.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\p58-suma-y-promedio.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\bin\Debug\net7.0\p58-suma-y-promedio.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\bin\Debug\net7.0\p58-suma-y-promedio.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\bin\Debug\net7.0\p58-suma-y-promedio.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\bin\Debug\net7.0\p58-suma-y-promedio.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\bin\Debug\net7.0\p58-suma-y-promedio.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\p58-suma-y-promedio.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\refint\p58-suma-y-promedio.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\p58-suma-y-promedio.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\p58-suma-y-promedio.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p58-suma-y-promedio\obj\Debug\net7.0\ref\p58-suma-y-promedio.dll

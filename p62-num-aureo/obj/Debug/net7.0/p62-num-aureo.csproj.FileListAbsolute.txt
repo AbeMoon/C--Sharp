@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\bin\Debug\net7.0\p62-num-aureo.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\bin\Debug\net7.0\p62-num-aureo.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\bin\Debug\net7.0\p62-num-aureo.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\bin\Debug\net7.0\p62-num-aureo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\bin\Debug\net7.0\p62-num-aureo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\p62-num-aureo.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\p62-num-aureo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\p62-num-aureo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\p62-num-aureo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\p62-num-aureo.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\p62-num-aureo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\refint\p62-num-aureo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\p62-num-aureo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\p62-num-aureo.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p62-num-aureo\obj\Debug\net7.0\ref\p62-num-aureo.dll
