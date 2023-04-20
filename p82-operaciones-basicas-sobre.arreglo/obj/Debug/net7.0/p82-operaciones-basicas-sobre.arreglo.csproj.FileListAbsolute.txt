@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\bin\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\bin\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\bin\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\bin\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\bin\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\refint\p82-operaciones-basicas-sobre.arreglo.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\p82-operaciones-basicas-sobre.arreglo.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p82-operaciones-basicas-sobre.arreglo\obj\Debug\net7.0\ref\p82-operaciones-basicas-sobre.arreglo.dll
