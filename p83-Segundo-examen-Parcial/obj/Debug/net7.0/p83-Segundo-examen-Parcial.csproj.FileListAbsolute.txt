@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\bin\Debug\net7.0\p83-Segundo-examen-Parcial.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\bin\Debug\net7.0\p83-Segundo-examen-Parcial.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\bin\Debug\net7.0\p83-Segundo-examen-Parcial.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\bin\Debug\net7.0\p83-Segundo-examen-Parcial.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\bin\Debug\net7.0\p83-Segundo-examen-Parcial.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\p83-Segundo-examen-Parcial.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\p83-Segundo-examen-Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\p83-Segundo-examen-Parcial.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\p83-Segundo-examen-Parcial.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\p83-Segundo-examen-Parcial.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\p83-Segundo-examen-Parcial.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\refint\p83-Segundo-examen-Parcial.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\p83-Segundo-examen-Parcial.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\p83-Segundo-examen-Parcial.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p83-Segundo-examen-Parcial\obj\Debug\net7.0\ref\p83-Segundo-examen-Parcial.dll
