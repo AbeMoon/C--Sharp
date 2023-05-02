@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\p84empleado.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\p84empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\p84empleado.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\p84empleado.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\p84empleado.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\bin\Debug\net7.0\p84empleado.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\bin\Debug\net7.0\p84empleado.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\bin\Debug\net7.0\p84empleado.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\bin\Debug\net7.0\p84empleado.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\bin\Debug\net7.0\p84empleado.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\p84empleado.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\refint\p84empleado.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\p84empleado.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\p84empleado.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p84empleado\obj\Debug\net7.0\ref\p84empleado.dll

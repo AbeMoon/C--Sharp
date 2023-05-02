@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\p85-cuenta-Bancaria-v1.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\p85-cuenta-Bancaria-v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\p85-cuenta-Bancaria-v1.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\p85-cuenta-Bancaria-v1.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\p85-cuenta-Bancaria-v1.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\bin\Debug\net7.0\p85-cuenta-Bancaria-v1.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\bin\Debug\net7.0\p85-cuenta-Bancaria-v1.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\bin\Debug\net7.0\p85-cuenta-Bancaria-v1.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\bin\Debug\net7.0\p85-cuenta-Bancaria-v1.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\bin\Debug\net7.0\p85-cuenta-Bancaria-v1.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\p85-cuenta-Bancaria-v1.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\refint\p85-cuenta-Bancaria-v1.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\p85-cuenta-Bancaria-v1.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\p85-cuenta-Bancaria-v1.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p85-cuenta-Bancaria-v1\obj\Debug\net7.0\ref\p85-cuenta-Bancaria-v1.dll
