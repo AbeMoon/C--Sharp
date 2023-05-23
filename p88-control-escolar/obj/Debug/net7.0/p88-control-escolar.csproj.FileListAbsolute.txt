@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\bin\Debug\net7.0\p88-control-escolar.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\bin\Debug\net7.0\p88-control-escolar.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\bin\Debug\net7.0\p88-control-escolar.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\bin\Debug\net7.0\p88-control-escolar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\bin\Debug\net7.0\p88-control-escolar.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\p88-control-escolar.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\p88-control-escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\p88-control-escolar.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\p88-control-escolar.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\p88-control-escolar.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\p88-control-escolar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\refint\p88-control-escolar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\p88-control-escolar.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\p88-control-escolar.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p88-control-escolar\obj\Debug\net7.0\ref\p88-control-escolar.dll

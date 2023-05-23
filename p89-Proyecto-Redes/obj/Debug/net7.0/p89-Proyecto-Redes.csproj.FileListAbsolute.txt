@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\bin\Debug\net7.0\p89-Proyecto-Redes.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\bin\Debug\net7.0\p89-Proyecto-Redes.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\bin\Debug\net7.0\p89-Proyecto-Redes.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\bin\Debug\net7.0\p89-Proyecto-Redes.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\bin\Debug\net7.0\p89-Proyecto-Redes.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\p89-Proyecto-Redes.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\p89-Proyecto-Redes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\p89-Proyecto-Redes.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\p89-Proyecto-Redes.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\p89-Proyecto-Redes.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\p89-Proyecto-Redes.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\refint\p89-Proyecto-Redes.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\p89-Proyecto-Redes.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\p89-Proyecto-Redes.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p89-Proyecto-Redes\obj\Debug\net7.0\ref\p89-Proyecto-Redes.dll

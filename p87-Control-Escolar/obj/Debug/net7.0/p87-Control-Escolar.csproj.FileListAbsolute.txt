@@ -1,0 +1,15 @@
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\p87-Control-Escolar.csproj.AssemblyReference.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\p87-Control-Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\p87-Control-Escolar.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\p87-Control-Escolar.AssemblyInfo.cs
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\p87-Control-Escolar.csproj.CoreCompileInputs.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\bin\Debug\net7.0\p87-Control-Escolar.exe
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\bin\Debug\net7.0\p87-Control-Escolar.deps.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\bin\Debug\net7.0\p87-Control-Escolar.runtimeconfig.json
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\bin\Debug\net7.0\p87-Control-Escolar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\bin\Debug\net7.0\p87-Control-Escolar.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\p87-Control-Escolar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\refint\p87-Control-Escolar.dll
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\p87-Control-Escolar.pdb
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\p87-Control-Escolar.genruntimeconfig.cache
+C:\Users\arkan\Desktop\docs\Codigo\C#\p87-Control-Escolar\obj\Debug\net7.0\ref\p87-Control-Escolar.dll

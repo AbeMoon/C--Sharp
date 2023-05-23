@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p89-Proyecto-Redes/1.0.0": {
+        "runtime": {
+          "p89-Proyecto-Redes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p89-Proyecto-Redes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
