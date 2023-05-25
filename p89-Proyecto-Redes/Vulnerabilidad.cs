@@ -7,7 +7,9 @@ public class Vulnerabilidad{
 
     public Vulnerabilidad () {}
 
-    public Vulnerabilidad(string clave, string vendedor, string descripcion, string tipo, DateTime fecha) =>
+    public Vulnerabilidad(string clave, string vendedor, string descripcion, string tipo,DateTime fecha):this() =>
     (Clave, Vendedor, Descripcion, Tipo, Fecha) = (clave, vendedor, descripcion, tipo, fecha);
+
+    public override string ToString() => $"Clave: {Clave}, Vendedor: {Vendedor}, Descripcion: {Descripcion},\n    Tipo: {Tipo}, Fecha: {Fecha.ToString("dd/MM/yyyy")}";
 
 }

@@ -6,7 +6,7 @@ public class Red{
 
     public Red() => Nodos = new List<Nodo>();
 
-    public Red(string empresa, string propietario, string domicilio) => (Empresa, Propietario, Domicilio) = (empresa, propietario, domicilio);
+    public Red(string empresa, string propietario, string domicilio):this() => (Empresa, Propietario, Domicilio) = (empresa, propietario, domicilio);
 
     public void AgregarNodo(Nodo nodo) => Nodos.Add(nodo);
 

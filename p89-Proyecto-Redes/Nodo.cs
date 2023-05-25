@@ -8,11 +8,11 @@ public class Nodo{
 
     public Nodo() => Vulnerabilidades = new List<Vulnerabilidad>();
 
-    public Nodo(string ip, string tipo, int puertos, int saltos, string so) =>
+    public Nodo(string ip, string tipo, int puertos, int saltos, string so):this() =>
     (IP, Tipo, Puertos, Saltos, SO) = (ip, tipo, puertos, saltos, so);
 
     public void AgregarVulne (Vulnerabilidad vul) => Vulnerabilidades.Add(vul);
 
-    public override string ToString() => $"Ip: {IP}, Tipo: {Tipo},  Puertos: {Puertos}, Saltos: {Saltos}, So: {SO}";
+    public override string ToString() => $"Ip: {IP}, Tipo: {Tipo},   Puertos: {Puertos}, Saltos: {Saltos}, So: {SO}";
 
 }
